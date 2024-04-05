@@ -1,0 +1,158 @@
+.corrosal{
+    padding-top: 112px;
+}
+.corrosal h2{
+    margin-top: 28px;
+    color: rgb(255, 111, 0);
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content: center;
+    font-weight: 400;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+}
+
+.corrosal h4{
+    font-size:25px;
+    margin-top: 15px;
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content: center;
+}
+.paragraph{
+    margin-top: 20px;
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content: center;
+}
+#para2{
+margin-top: -10px;
+}
+#para3{
+    margin-top: -10px;
+    }
+    #para1 img{
+        margin-right: 10px;
+ 
+    }
+    #para3 p img{
+   
+        margin-top:10px; 
+ 
+    }
+.corrosalimg img{
+
+    width:100%;
+    height:60vh;
+    margin-top: 40px;
+}
+.corrosal .row{
+    display:flex;
+}
+.corrosalbox1 h1{
+    background-color:white;
+    border:1.5px solid  rgb(255, 111, 0);
+    opacity:.8;
+    width:335px;
+    height:325px;
+    border-radius:50%;
+    position:absolute;  
+    margin-top: -370px;
+    margin-left: 170px;
+}
+.corrosalbox1 h5{
+    position:absolute;  
+    color: rgb(255, 111, 0);
+    margin-top: -240px;
+    margin-left: 215px;
+    font-size:17px;
+
+}
+.corrosalbox1 #box1firstline{
+    position:absolute;  
+    margin-top: -215px;
+    margin-left: 185px;
+    font-size:14px;
+}
+
+#box1secondline{
+    position:absolute;  
+    margin-top: -195px;
+    margin-left: 230px;
+    font-size:14px;
+}
+ .corrosalbox2 h1{
+    background-color:white;
+    border:1.5px solid  rgb(255, 111, 0);
+    opacity:.8;
+    width:335px;
+    height:325px;
+    border-radius:50%;
+    position:absolute;      
+    margin-top: -370px;
+    margin-left: 100px;
+}
+.corrosalbox2 h5{
+    position:absolute;  
+    color: rgb(255, 111, 0);
+    margin-top: -240px;
+    margin-left: 190px;
+    font-size:17px;
+
+}
+.corrosalbox2 #box2firstline{
+    position:absolute;  
+    margin-top: -215px;
+    margin-left: 145px;
+    font-size:14px;
+}
+
+#box2secondline{
+    position:absolute;  
+    margin-top: -195px;
+    margin-left: 120px;
+    font-size:14px;
+}
+#box2thirdline{
+    position:absolute;  
+    margin-top: -175px;
+    margin-left: 205px;
+    font-size:14px;
+}
+.corrosalbox3 h1{
+    background-color:white;
+    border:1.5px solid  rgb(255, 111, 0);
+    opacity:.8;
+    width:325px;
+    height:325px;
+    border-radius:50%;
+    position:absolute;  
+    margin-top: -370px;
+    margin-left: 10px;
+
+} 
+.corrosalbox3 h5{
+    position:absolute;  
+    color: rgb(255, 111, 0);
+    margin-top: -240px;
+    margin-left: 115px;
+    font-size:17px;
+
+}
+.corrosalbox3 #box3firstline{
+    position:absolute;  
+    margin-top: -215px;
+    margin-left: 30px;
+
+    font-size:14px;
+}
+
+#box3secondline{
+    position:absolute;  
+    margin-top: -195px;
+    margin-left: 50px;
+    font-size:14px;
+}

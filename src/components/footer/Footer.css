@@ -1,0 +1,72 @@
+.footer{
+    margin-top: 60px;
+    color:white;
+}
+.footercontent{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(9, 9, 41);
+    width:727px;
+    height:350px;
+}
+.footercontent h5{
+    margin-top: 30px;
+    font-size:35px;
+    margin-left: 50px;
+
+}
+.footercontent p{
+
+    margin-left: 50px;
+    color:lightgray;
+
+}
+.footerimage img{
+    display:flex;
+    height:350px;
+    margin-top: -350px;
+    margin-left: 727px;
+}
+
+
+.cowork h4{
+    margin-top:-90px;
+    margin-left: 170px;
+    font-size:20px;
+}
+.cowork p{
+
+    margin-left: 170px;
+
+}
+#coworksecondline{
+    margin-top: -35px;
+    margin-left: 170px;
+
+}
+.coworkimg{
+    color:rgb(255, 111, 0);
+    font-size:70px;
+    margin-left: 90px;
+
+    margin-top: -20px;
+}
+.cafe h6{
+    margin-top: -80px;
+    margin-left: 170px;
+    font-size:20px;
+}
+.cafe p{
+    margin-top: 10px;
+    margin-left: 170px;
+    color:lightgray;
+    font-size:14px;
+
+}
+.cafeimg{
+    color: rgb(255, 111, 0);
+    font-size:65px;
+    margin-top:25px;
+    margin-left: 87px;
+
+}

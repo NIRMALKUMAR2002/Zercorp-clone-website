@@ -1,0 +1,80 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.loginform{
+    width:80%;
+    height:80vh;
+    background-color: #fff;
+    justify-content: center;
+    align-items:center;
+    margin-left: 150px;
+    box-shadow:  rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 20px;
+
+  
+
+
+}
+.loginimg img{
+    position:absolute;
+    width:50%;
+    height:558px;
+
+    border-radius: 10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+
+}
+.login{
+/* background-color: linear-gradient(30deg,#3f5efb,#FF69B4); */
+/* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+background: rgb(63,94,251); */
+background: linear-gradient(130deg, rgba(63,94,251,1) 35%, rgba(255,105,180,1) 100%);
+background-color: green;
+background-size:cover;
+height:100vh;
+padding-top: 65px;
+
+
+
+}
+.logincontent {
+ color:black;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ margin-left: 980px;
+ display: flex;
+ flex-direction: column;
+ justify-content:center;
+ align-items: center;
+ text-align: center;
+ padding-top:170px;
+
+
+}
+.logincontent h3{
+letter-spacing: 3px;
+    
+}
+.logincontent #input1{
+    border-radius: 10px;
+    border:0.5px solid gray;
+    margin-top: 20px;
+}
+.logincontent #input2{
+    border-radius: 10px;
+    border:0.5px solid gray;
+    margin-top: 20px;
+}
+.logincontent #submitbutton{
+    border-radius: 10px;
+    border:0.5px solid gray;
+    margin-top: 20px;
+    color:white;
+    background-color:#000;
+    width:80px;
+    height:35px;
+}

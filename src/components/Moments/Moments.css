@@ -1,0 +1,95 @@
+.moments h3{
+
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content:center;
+    font-size:25px;
+    margin-top: 25px;
+
+}
+
+.momentsimages{
+    display:flex;
+    margin-top: 20px;
+
+}
+.momentsimg1{
+    border:1px solid lightgray;
+    border-radius:10px;
+    width:550px;
+    height:460px;
+    margin-left: 200px;
+
+}
+.momentsimg1 #button1{
+    color:white;
+    background-color:  rgb(255, 133, 40);
+    position:absolute;
+    width:200px;
+    height:40px;
+    margin-top: 10px;
+    margin-left: 338px;
+    border:none;
+    outline:none;
+    border-radius:7px;
+}
+.momentsimg1 img{
+    width:550px;
+    height:350px;
+    /* margin-left: 200px; */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+.momentsimg1 p{
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content:center;
+    font-size:17px;
+    line-height: 1.3rem;
+    font-weight:100;
+}
+#momentsimg1firstline{
+    margin-top: 10px;
+}
+
+.momentsimg2 img{
+    width:550px;
+    height:350px;
+    /* margin-left: 20px; */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.momentsimg2{
+    border:1px solid lightgray;
+    border-radius:10px;
+    width:550px;
+    height:460px;
+    margin-left: 40px;
+}
+.momentsimg2 #button2{
+    color:white;
+    background-color:  rgb(255, 133, 40);
+    position:absolute;
+    width:200px;
+    height:40px;
+    margin-top: 10px;
+    margin-left: 338px;
+    border:none;
+    outline:none;
+    border-radius:7px;
+}
+.momentsimg2 p{
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content:center;
+    font-size:17px;
+    line-height: 1.3rem;
+    font-weight:100;
+}
+#momentsimg2firstline{
+    margin-top: 10px;
+}
